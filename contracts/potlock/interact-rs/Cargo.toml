@@ -1,9 +1,9 @@
 [[bin]]
-name = "rust-interact"
+name = "rust-interactor"
 path = "src/potlock_interactor_main.rs"
 
 [package]
-name = "rust-interact"
+name = "rust-interactor"
 version = "0.0.0"
 authors = ["you"]
 edition = "2021"

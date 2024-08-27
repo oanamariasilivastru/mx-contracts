@@ -1,2 +1,0 @@
-[[proxy]]
-path = "src/paymaster_proxy.rs"

@@ -1,2 +1,0 @@
-[[proxy]]
-path = "../rewards-distribution/src/seed_nft_minter_proxy.rs"
